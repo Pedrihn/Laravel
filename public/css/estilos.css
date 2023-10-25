@@ -1,0 +1,19 @@
+body{
+    background-color:#E0E2DB;
+    
+}
+h3{
+    color:#7F7B82;
+    border-bottom:1px solid;
+}
+p{
+    width: 1rem;
+}
+a{
+    color:#009FB7;
+    text-decoration:none;
+    background:#444554;
+}
+p>a:hover{
+    color: #1B998B;
+}
